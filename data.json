@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "admin",
+      "email": "admin",
+      "pass": "admin"
+    },
+    {
+      "id": "Ashish",
+      "email": "ashish@gmail.com",
+      "pass": "0831"
+    }
+  ],
+  "user": {
+    "name": "Ashish"
+  }
+}
